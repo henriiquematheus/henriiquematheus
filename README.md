@@ -2,8 +2,8 @@
 
 
 ## 👨🏻‍💻 About me
-I am a Information Systems student, aiming to become a FullStack developer. Currently, I am more focused on Java for the backend and React/Angular for the frontend.<br/>
-I will be updating the projects done.
+I am a Information Systems student, aiming to become a FullStack developer. Currently, I am more focused on Java for the backend and React/Angular for the frontend<br/>
+I will be updating the projects done 💻
 
 
 ## 🛠 Skills
