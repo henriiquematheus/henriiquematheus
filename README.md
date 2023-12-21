@@ -8,7 +8,7 @@ I will be updating the projects ASAP :computer:
 
 ## 🛠 Skills
 <div style="display: inline_block">
-    <img text-align="center" alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img text-align="center" alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><br/>
     <img text-align="center" alt="React" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img text-align="center" alt="Angular" src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img text-align="center" alt="NodeJS" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><br/><br/>
