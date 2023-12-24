@@ -14,7 +14,7 @@ I will be updating the projects ASAP :computer:
     <img text-align="center" alt="React" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/><br/>
     <img text-align="center" alt="MongoDB" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img text-align="center" alt="PostgreSQL" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img text-align="center" alt="PostgreSQL" src= "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black"/>
+    <img text-align="center" alt="PostgreSQL" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
    
 
 
