@@ -3,7 +3,6 @@
 
 ## 👨🏻‍💻 About me
 I am a Information Systems student, aiming to become a FullStack developer. Currently, I am more focused on Go/Java/Node for the backend and React/Angular for the frontend<br/><br/>
-I will be updating the projects ASAP :computer:
 
 
 ## 🛠 Skills
