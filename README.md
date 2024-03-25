@@ -24,3 +24,6 @@ I'm a passionate Information Systems student with a goal to become a FullStack d
 ## 📊 GitHub Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriiquematheus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Henrique-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheushenrique-dev/)
+
