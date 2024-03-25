@@ -30,6 +30,6 @@ I'm a passionate Information Systems student with a goal to become a FullStack d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Henrique-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheushenrique-dev/)
 
-## 🔥 Projects
+## 📁 Projects
 
 [![Rinha de Backend](https://github-readme-stats.vercel.app/api/pin/?username=henriiquematheus&repo=rinha-backend-2024q1-go&theme=dark)](https://github.com/henriiquematheus/rinha-backend-2024q1-go)
