@@ -26,14 +26,14 @@ I'm a passionate Information Systems student with a goal to become a FullStack d
 ### Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriiquematheus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/matheushenrique-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Matheus_Henrique-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-
 ## 📁 Projects
 
 <a href="https://github.com/henriiquematheus/rinha-backend-2024q1-go" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriiquematheus&repo=rinha-backend-2024q1-go&theme=dark" alt="Rinha de Backend" />
+</a>
+
+## 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/matheushenrique-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Matheus_Henrique-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
