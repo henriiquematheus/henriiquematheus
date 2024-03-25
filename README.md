@@ -32,5 +32,4 @@ I'm a passionate Information Systems student with a goal to become a FullStack d
 
 ## 🔥 Project
 
-[Rinha de Backend](https://github.com/henriiquematheus/rinha-backend-2024q1-go)
 [![Rinha de Backend](https://github-readme-stats.vercel.app/api/pin/?username=henriiquematheus&repo=rinha-backend-2024q1-go&theme=dark)](https://github.com/henriiquematheus/rinha-backend-2024q1-go)
