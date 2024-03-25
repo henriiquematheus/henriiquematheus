@@ -28,12 +28,9 @@ I'm a passionate Information Systems student with a goal to become a FullStack d
 
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/matheushenrique-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Matheus_Henrique-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Henrique-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheushenrique-dev/){:target="_blank"}
 
 ## 📁 Projects
 
-<a href="https://github.com/henriiquematheus/rinha-backend-2024q1-go" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriiquematheus&repo=rinha-backend-2024q1-go&theme=dark" alt="Rinha de Backend" />
-</a>
+[![Rinha de Backend](https://github-readme-stats.vercel.app/api/pin/?username=henriiquematheus&repo=rinha-backend-2024q1-go&theme=dark)](https://github.com/henriiquematheus/rinha-backend-2024q1-go){:target="_blank"}
+
