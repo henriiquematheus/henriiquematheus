@@ -21,6 +21,6 @@ I'm a passionate Information Systems student with a goal to become a FullStack d
 
 </div>
 
----
+## 📊 GitHub Stats
 
-Feel free to reach out and connect with me! Let's build something incredible together. 😊✨
+![Matheus Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-hsr&show_icons=true&theme=radical)
